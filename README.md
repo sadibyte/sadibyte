@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/your-username/your-repo/main/harry_potter_coding.gif" alt="Harry Potter coding" width="400"/>
+<img align="center" src="https://usagif.com/wp-content/uploads/gify/fighting-battle-usagif-harry-potter.gif">
 <h3 align="center"># Hi there, fellow wizard! 🧙‍♂️✨</h3>
 
 
