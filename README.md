@@ -1,4 +1,4 @@
-<img align="right" src="https://www.gifcen.com/wp-content/uploads/2022/03/harry-potter-gif-1.gif">
+<img align="right" src="https://www.gifcen.com/wp-content/uploads/2022/03/harry-potter-gif-1.gif" width="486" height="292.5">
 <h3 align="center"># Hi there 👋, fellow wizard! 🧙‍♂️✨</h3>
 
 
