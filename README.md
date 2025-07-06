@@ -1,6 +1,7 @@
 <img align="right" src="https://www.gifcen.com/wp-content/uploads/2022/03/harry-potter-gif-1.gif" width="486" height="292.5">
 <h3 align="center"> <strong># Hi there 👋, fellow wizard! 🧙‍♂️✨</strong></h3>
 
+---
 
 Welcome to my little corner of the magical internet!  
 I'm a high school student on an exciting quest to master the arcane arts of programming.  
