@@ -1,5 +1,5 @@
 <img align="right" src="https://www.gifcen.com/wp-content/uploads/2022/03/harry-potter-gif-1.gif" width="486" height="292.5">
-<h3 align="center"># Hi there 👋, fellow wizard! 🧙‍♂️✨</h3>
+<h3 align="center"> <strong># Hi there 👋, fellow wizard! 🧙‍♂️✨</strong></h3>
 
 
 Welcome to my little corner of the magical internet!  
@@ -51,11 +51,4 @@ Feel free to reach out if you want to:
 
 ---
 
-🪄✨ Thanks for visiting my profile! May your code compile on the first try!
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadibyte&show_icons=true&locale=en&layout=compact" alt="sadibyte" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadibyte&show_icons=true&locale=en" alt="sadibyte" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadibyte&" alt="sadibyte" /></p>
-
+<b>🪄✨ Thanks for visiting my profile! May your code compile on the first try!</b>
