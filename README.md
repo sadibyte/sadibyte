@@ -52,3 +52,10 @@ Feel free to reach out if you want to:
 ---
 
 🪄✨ Thanks for visiting my profile! May your code compile on the first try!
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadibyte&show_icons=true&locale=en&layout=compact" alt="sadibyte" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadibyte&show_icons=true&locale=en" alt="sadibyte" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadibyte&" alt="sadibyte" /></p>
+
