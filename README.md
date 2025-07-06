@@ -1,4 +1,4 @@
-<img align="right" src="https://usagif.com/wp-content/uploads/gify/fighting-battle-usagif-harry-potter.gif">
+<img align="right" src="https://www.gifcen.com/wp-content/uploads/2022/03/harry-potter-gif-1.gif">
 <h3 align="center"># Hi there, fellow wizard! 🧙‍♂️✨</h3>
 
 
@@ -12,9 +12,9 @@ You can call me a **cheerful and smart apprentice**, currently wielding the powe
 
 🧠 **Learning Path**: Currently delving deep into the fundamentals of **Python**. Every `print("Hello, world!")` feels like casting a new spell! 📜
 
-📐 **Strengths**: Adept at **Mathematics** and **Physics**, I enjoy solving complex problems – it's like unraveling ancient runes! 🔢🔭
+📐 **Strengths**: Adept at **Mathematics** and **Physics**, I enjoy solving complex problems – it's like unravelling ancient runes! 🔢🔭
 
-📚 **Academic Prowess**: I strive for excellence in all my studies, keeping my scores as high as a **Nimbus 2000**! 🧹💯
+📚 **Academic Prowess**: I strive for excellence in all my studies, maintaining high scores comparable to a **Nimbus 2000**. 🧹💯
 
 🏆 **Olympiad Aspirations**: Training rigorously for **Math, Physics, and CS Olympiads**, hoping to bring home some magical gold! 🥇✨
 
