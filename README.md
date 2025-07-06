@@ -1,4 +1,4 @@
-<img align="center" src="https://usagif.com/wp-content/uploads/gify/fighting-battle-usagif-harry-potter.gif">
+<img align="right" src="https://usagif.com/wp-content/uploads/gify/fighting-battle-usagif-harry-potter.gif">
 <h3 align="center"># Hi there, fellow wizard! 🧙‍♂️✨</h3>
 
 
